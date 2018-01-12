@@ -1,3 +1,6 @@
+#库
+粒子效果 http://blog.topspeedsnail.com/archives/9289 https://github.com/VincentGarreau/particles.js/
+
 # css-trick
 
 圣杯布局（中间自适应, negative margin)<br/>
